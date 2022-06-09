@@ -1,0 +1,9 @@
+my:
+   greeting: Hello World Trial from config server
+   list:
+      values: one, two, three, Four, five, updateone, config2
+
+db:
+   connection: connection-string-here-from-config-server-withChanges_updatedOne
+   host: 127.0.0.1
+   port: 1200
